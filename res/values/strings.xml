@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DogHeredityActivity!</string>
+    <string name="app_name">Dog Heredity using Bump</string>
+    <string name="bump_string">Bump</string>
+    <string name="ready">Ready to Bump</string>
+    <string name="send">Send Data</string>
+    <string name="newDogString">New Dog</string>
+    <string name="deleteDogString">Delete Dog</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="black">Black</string>
+    <string name="choose_coat_color">Choose a coat color:</string>
+    <string-array name="coat_colors_array">
+        <item>Black</item>
+        <item>Brown</item>
+    </string-array>
+    
+    <string name="choose_eye_color">Choose an eye color:</string>
+    <string-array name="eye_colors_array">
+        <item>Brown</item>
+        <item>Hazel</item>
+    </string-array>
+    
+    <string name="choose_tail_type">Choose a tail type:</string>
+    <string-array name="tail_types_array">
+        <item>Short</item>
+        <item>Long</item>
+    </string-array>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="coat_color">Coat Color:</string>
+    <string name="eye_color">Eye Color:</string>
+    <string name="tail_type">Tail Type:</string>
+    <string name="create">Create</string>
+    <string name="edit_name_string">Edit Name</string>
+    <string name="test">test</string>
+    <string name="cancel">Cancel</string>
+    <string name="breed">Breed</string>
+    <string name="trade">Trade</string>
+    
+
+</resources>
